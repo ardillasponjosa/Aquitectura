@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e6f7ec;  /* Soft pastel green background for a natural feel */
+    color: #333;  /* Dark gray text for readability */
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.info1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.titulos {
+    font-size: 24px;
+    color: #2e8540;  /* Earthy green titles for a natural touch */
+}
+
+.desc {
+    text-align: left;
+}
+
+h3 {
+    color: #333;
+}

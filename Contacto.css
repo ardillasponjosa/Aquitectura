@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+    color: #555;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+/* Estilos para los párrafos que contienen la información de contacto */
+p.contact-info {
+    font-weight: bold;
+    color: #007bff;
+    font-size: 18px;
+}
+
+/* Estilos para los párrafos que contienen las etiquetas */
+p.label {
+    color: #555;
+}
+
+/* Estilos para los enlaces de redes sociales */
+a.social-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.social-link:hover {
+    text-decoration: underline;
+}
